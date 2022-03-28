@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥😌
 
 For More Details Click Help Button Below..
 @athulx80
@@ -46,13 +46,13 @@ For More Details Click Help Button Below..
 @CrazyBotsz
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ ɴᴀᴍᴇ</b> : <code> ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/athulx80">Athul</a></i></b>
+<b>➥ ᴄʀᴇᴀᴛᴏʀ</b> : <b><i><a href="https://t.me/athulx80">ᴀᴛʜᴜʟ</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>➥ ʟᴀɴɢᴜᴀɢᴇ</b> : <code>ᴘʏᴛʜᴏɴ3</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ ʟɪʙʀᴀʀʏ</b> : <i><a href="https://docs.pyrogram.org">ᴘʏʀᴏɢʀᴀᴍ ᴀꜱʏɴᴄɪᴏ 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">ᴄʟɪᴄᴋ ᴍᴇ</a></i>
 """
