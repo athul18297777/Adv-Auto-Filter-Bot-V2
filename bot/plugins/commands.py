@@ -52,7 +52,7 @@ async def start(bot, update):
 
 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ 🛠', url='https://t.me/+hUrTrPeMtz43Y2Y9')
+        InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ 🛠', url='https://t.me/newallmoviesxgroup')
     ],[
         InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data="help")
     ]]
