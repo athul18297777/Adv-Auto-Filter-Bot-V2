@@ -54,5 +54,6 @@ For More Details Click Help Button Below..
 
 <b>➥ ʟɪʙʀᴀʀʏ</b> : <i><a href="https://docs.pyrogram.org">ᴘʏʀᴏɢʀᴀᴍ ᴀꜱʏɴᴄɪᴏ 1.13.0 </a></i>
 
-<b>➥ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">ᴄʟɪᴄᴋ ᴍᴇ</a></i>
+<b>➥ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</b> : <i><a href="https://github.com/athul18297777/Adv-Auto-Filter-Bot-V2">ᴄʟɪᴄᴋ ᴍᴇ</a></i>
+<b>➥ ᴄʜᴀɴɴᴇʟ</b> : <i><a href="https://t.me/newallmoviesx">𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄</a></i>
 """
